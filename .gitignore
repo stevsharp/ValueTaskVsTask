@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.cr/personal/FavoritesList
+/.vs
+/ServerDemo/bin/Debug/net9.0
+/ServerDemo/obj
+/TestProject/bin/Debug/net9.0
+/TestProject/obj
+/ValueTaskVsTask/bin/Debug/net9.0
+/ValueTaskVsTask/obj
