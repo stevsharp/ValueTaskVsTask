@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ValueTaskVsTask\\ValueTaskVsTask.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ServerDemo\\ServerDemo.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TestProject\\TestProject.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
